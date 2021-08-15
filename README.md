@@ -16,7 +16,7 @@
 #PAQUETE "Servlet":
     
    -CLASE "Ser": Clase Servlet, que genera una "page" web, a partir de los parametros de la peticion de "JSP" 
-    ("btnInsert", "btnUpdate","btnDelete" mediante el método "processRequest". 
+    ("btnInsert", "btnUpdate","btnDelete")mediante el método "processRequest". 
       En el método se instancia la clase "Dao","usuario".
     
 #CARPETA "WEB": 
