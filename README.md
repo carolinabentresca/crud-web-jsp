@@ -6,15 +6,15 @@
 
 #PAQUETE "Modelo" : 
     
-   -CLASE "Conexion" :  Clase Conexion de la base de datos "mybd", mediante "JDBC".
+   - CLASE "Conexion" :  Clase Conexion de la base de datos "mybd", mediante "JDBC".
     
-   -CLASE "Dao" :  Clase de métodos "CRUD" ("insertar","modificar","eliminar","listar").
+   - CLASE "Dao" :  Clase de métodos "CRUD" ("insertar","modificar","eliminar","listar").
     
-   -CLASE "usuario" :  Clase entidad(Entity), de la tabla "usuario" de la base de datos.
+   - CLASE "usuario" :  Clase entidad(Entity), de la tabla "usuario" de la base de datos.
 
 #PAQUETE "Servlet" :
     
-   -CLASE "Ser" :  Clase Servlet,genera una "page" web, a partir de los parametros de la peticion "JSP" 
+   - CLASE "Ser" :  Clase Servlet,genera una "page" web, a partir de los parametros de la peticion "JSP" 
          ("btnInsert", "btnUpdate","btnDelete")mediante el método "processRequest". 
     
 #CARPETA "WEB" : 
