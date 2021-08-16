@@ -10,7 +10,7 @@
     
    - CLASE "Dao" :  Clase de métodos "CRUD" ("insertar","modificar","eliminar","listar").
     
-   - CLASE "usuario" :  Clase entidad(Entity), de la tabla "usuario" de la base de datos.
+   - CLASE "usuario" :  Clase entidad, de la tabla "usuario" de la base de datos.
 
 #PAQUETE "Servlet" :
     
@@ -19,8 +19,8 @@
     
 #CARPETA "WEB" : 
 
-  - "index.jsp" :  Compuesto por un Formulario, método "POST", los parametros 
-        ("btnInsert","btnUpdate","btnDelete") y "List" muestra una lista
+  - "index.jsp" :  Compuesto por un Form, método "POST", sus parametros 
+        ("btnInsert","btnUpdate","btnDelete") y "List" que muestra una lista
         de datos de la tabla "usuario".
     
     
