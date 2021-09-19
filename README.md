@@ -1,26 +1,13 @@
-# crud-web-jsp
+# Crud-Web-JSP
 
-#TEMA :   Jsp-Servlet
+# Proyecto Jsp-Servlet
 
-#PROYECTO JAVA WEB :   Web Application
+### Proyecto Java Web / Web Application
+  - #### Conexion de la base de datos "mybd", mediante "JDBC"
+  - #### Clase de métodos "CRUD" ("insertar","modificar","eliminar","listar")   
+  - #### Clase entidad, "usuario" ,de la tabla "usuario" de la base de datos
+  - #### Clase Servlet, genera una "page Web",  a partir de los parametros 
+    #### de la peticion del "index.jsp", Mediante el método "processRequest"
 
-#PAQUETE "Modelo" : 
-    
-   - CLASE "Conexion" :  Conexion de la base de datos "mybd", mediante "JDBC".
-    
-   - CLASE "Dao" :  Clase de métodos "CRUD" ("insertar","modificar","eliminar","listar").
-    
-   - CLASE "usuario" :  Clase entidad, de la tabla "usuario" de la base de datos.
-
-#PAQUETE "Servlet" :
-    
-   - CLASE "Ser" :  Clase Servlet, genera una "page Web",  a partir de los parametros 
-        de la peticion del "index.jsp", Mediante el método "processRequest".
-    
-#CARPETA "WEB" : 
-
-  - "index.jsp" :  Compuesto por un Form, método "POST", sus parametros 
-        ("btnInsert","btnUpdate","btnDelete") y "List" que muestra una lista
-        de datos de la tabla "usuario".
     
     
