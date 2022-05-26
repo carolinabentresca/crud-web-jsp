@@ -1,6 +1,7 @@
-# Crud-Web-JSP
-### Java Web / Web Application
-## Proyecto JSP y Servlet , Realiza un "CRUD"
+### JSP
+- #### Proyecto Java Web Application
+- #### Uso de JSP - Servlet
+- #### Uso de métodos CRUD
 
 
 
